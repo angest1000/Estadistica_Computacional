@@ -1,2 +1,2 @@
-/.python_modules/
-**/__pycache__/
+.python_modules
+**__pycache__
