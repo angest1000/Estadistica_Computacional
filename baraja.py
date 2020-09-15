@@ -180,7 +180,7 @@ if __name__ == "__main__":
     7:Poker (4 cartas del mismo valor)
     8:Escalera de color (5 cartas consecutivas del mismo palo)
     9:Escalera Real (A,K,Q,J,10 del mismo palo)
-    10:Todas alv
+    10:Todas
     
 Opcion: """
     mano_a_obtener = int(input(manos))
